@@ -1,0 +1,12 @@
+! Blacklist for Pi-hole / AdGuard Home
+! These domains are to be blocked to remove ads and tracking.
+
+imasdk.googleapis.com
+enduser.adsrvr.org
+cdn.privacy.paramount.com
+www.googletagmanager.com
+pagead2.googlesyndication.com
+availability-fastly.syncbak-mediastore-cedexis.cbsavideo.com
+cbsi.demdex.net
+vod-gcs-qwilt.cbsavideo.com
+vod-gcs-google.cbsavideo.com
